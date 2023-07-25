@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icjosh10&THEME=highcontrast)](https://github.com/icjosh10/github-readme-)
 
 <!--
 **icjosh10/icjosh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
