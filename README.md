@@ -1,5 +1,5 @@
-[![icjosh10's GitHub stats](https://github-readme-stats.vercel.app/api?username=icjosh10&theme=highcontrast)](https://github.com/icjosh10/icjosh10)
-
+[![icjosh10's GitHub stats](https://github-readme-stats.vercel.app/api?username=icjosh10&theme=tokyonight&include_all_commits=true)](https://github.com/icjosh10/icjosh10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icjosh10&hide_progress=true)
 <!--
 **icjosh10/icjosh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
