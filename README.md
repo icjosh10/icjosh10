@@ -1,5 +1,9 @@
-[![icjosh10's GitHub stats](https://github-readme-stats-bay-alpha.vercel.app/api?username=icjosh10&theme=slateorange&include_all_commits=true)](https://github.com/icjosh10/icjosh10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icjosh10&hide_progress=true)
+<div>
+<a href="https://github.com/icjosh10">
+<img height="170em" src="https://github-readme-stats-bay-alpha.vercel.app/api?username=icjosh10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<!-- <img height="170em" src="https://github-readme-stats-bay-alpha.vercel.app/api/top-langs/?username=icjosh10&layout=compact&langs_count=15&theme=dark"/> -->
+</div>
+  
 <!--
 **icjosh10/icjosh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
